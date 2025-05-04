@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there, I'm Dimas Fahmi 👋
 
-## Getting Started
+Welcome to my GitHub profile!
 
-First, run the development server:
+I am a passionate developer with a strong interest in web technologies, particularly React and Next.js. I have experience with PHP and Laravel, which I still appreciate for my older projects. I look forward to working with you or getting to know you better!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👀 Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **[dimas-fahmi](https://github.com/dimas-fahmi/dimas-fahmi)** – My Portfolio Repository
+- **[deployed-here](https://dimasfahmi.pro/)** - On Development, target release next-week
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Projects
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **[Belisarius Official Website](https://github.com/belisarius-apparel/belisarius)** – My Small Business Official Website - **[deployment](https://belisarius.site)**
+- **[Belisarius Admin Portal](https://portal.belisarius.site)** – Portal Admin For The Site
+- **[TuskTask](https://github.com/dimas-fahmi/tusktask)** – Task Management App - **[deployment](https://tusktask.dimasfahmi.pro)**
+- **[Tic Tac Toe](https://github.com/dimas-fahmi/tic-tac-toe-2)** – Tic-Tac-Toe with minimax - **[deployment](https://dimas-fahmi.github.io/tic-tac-toe-2)**
+- **[Calculator](https://github.com/dimas-fahmi/tusktask)** – Basic Calculator With Reducer - **[deployment](https://dimas-fahmi.github.io/calculator/)**
+- More on my repo lists...
 
-## Learn More
+## 🛠️ Technologies & Tools
 
-To learn more about Next.js, take a look at the following resources:
+- React, Next.js
+- TypeScript, JavaScript
+- PHP, Laravel
+- Tailwind CSS
+- Git & GitHub
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📫 How to reach me
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Contact WhatsApp](https://wa.me/6285172305405)
+- [Portfolio Contact](https://dimasfahmi.pro/chat) - on development, target next week!
+- Email: contact@dimasfahmi.pro
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thanks for visiting my profile!
