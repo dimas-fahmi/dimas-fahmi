@@ -2,21 +2,21 @@
 
 Welcome to my GitHub profile!
 
-I am a passionate developer with a strong interest in web technologies, particularly React and Next.js. I have experience with PHP and Laravel, which I still appreciate for my older projects. I look forward to working with you or getting to know you better!
+I'm a passionate developer with a strong interest in web technologies, especially React and Next.js. I also have experience with PHP and Laravel, which I still value for maintaining and updating legacy projects. I'm always excited to collaborate or connect with fellow developers—let's build something great together!
 
 ## 👀 Portfolio
 
-- **[dimas-fahmi](https://github.com/dimas-fahmi/dimas-fahmi)** – My Portfolio Repository
-- **[deployed-here](https://dimasfahmi.pro/)** - On Development, target release next-week
+- **[dimas-fahmi](https://github.com/dimas-fahmi/dimas-fahmi)** – My portfolio repository
+- **[Live Site](https://dimasfahmi.pro/)** – Currently in development, planned release next week
 
 ## 🚀 Projects
 
-- **[Belisarius Official Website](https://github.com/belisarius-apparel/belisarius)** – My Small Business Official Website - **[deployment](https://belisarius.site)**
-- **[Belisarius Admin Portal](https://portal.belisarius.site)** – Portal Admin For The Site
-- **[TuskTask](https://github.com/dimas-fahmi/tusktask)** – Task Management App - **[deployment](https://tusktask.dimasfahmi.pro)**
-- **[Tic Tac Toe](https://github.com/dimas-fahmi/tic-tac-toe-2)** – Tic-Tac-Toe with minimax - **[deployment](https://dimas-fahmi.github.io/tic-tac-toe-2)**
-- **[Calculator](https://github.com/dimas-fahmi/tusktask)** – Basic Calculator With Reducer - **[deployment](https://dimas-fahmi.github.io/calculator/)**
-- More on my repo lists...
+- **[Belisarius Official Website](https://github.com/belisarius-apparel/belisarius)** – Official website for my small business – **[Live Site](https://belisarius.site)**
+- **[Belisarius Admin Portal](https://portal.belisarius.site)** – Admin portal for managing the website
+- **[TuskTask](https://github.com/dimas-fahmi/tusktask)** – A task management app – **[Live Site](https://tusktask.dimasfahmi.pro)**
+- **[Tic Tac Toe](https://github.com/dimas-fahmi/tic-tac-toe-2)** – A Tic-Tac-Toe game with Minimax algorithm – **[Live Site](https://dimas-fahmi.github.io/tic-tac-toe-2)**
+- **[Calculator](https://github.com/dimas-fahmi/calculator)** – A basic calculator using Reducer – **[Live Site](https://dimas-fahmi.github.io/calculator/)**
+- Explore more in my repositories!
 
 ## 🛠️ Technologies & Tools
 
@@ -26,12 +26,12 @@ I am a passionate developer with a strong interest in web technologies, particul
 - Tailwind CSS
 - Git & GitHub
 
-## 📫 How to reach me
+## 📫 Get in Touch
 
-- [Contact WhatsApp](https://wa.me/6285172305405)
-- [Portfolio Contact](https://dimasfahmi.pro/chat) - on development, target next week!
-- Email: contact@dimasfahmi.pro
+- [Chat on WhatsApp](https://wa.me/6285172305405)
+- [Contact Form](https://dimasfahmi.pro/chat) – In development, launching soon!
+- Email: **contact@dimasfahmi.pro**
 
 ---
 
-Thanks for visiting my profile!
+Thanks for stopping by! 🚀
