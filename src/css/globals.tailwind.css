@@ -6,10 +6,14 @@
 }
 
 @theme inline {
+  /* Configure your theme variables here */
+  --font-display: "Inter", "sans-serif";
+  --color-primary-500: oklch(0.84 0.18 117.33);
+  --spacing: 0.25rem;
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-primary: var(--font-inter);
 }
 
 @media (prefers-color-scheme: dark) {
