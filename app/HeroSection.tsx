@@ -1,4 +1,4 @@
-import TestScene from "@/src/components/app/canvas/TestScene";
+import HeroScene from "@/src/components/app/canvas/HeroScene";
 import React from "react";
 import { FaInstagram, FaTelegramPlane } from "react-icons/fa";
 import { FaMessage, FaWhatsapp } from "react-icons/fa6";
@@ -40,7 +40,7 @@ const HeroSection = () => {
 
       {/* RIGHT: 3D Models */}
       <figure className="flex items-center justify-center">
-        <TestScene />
+        <HeroScene />
       </figure>
     </section>
   );
