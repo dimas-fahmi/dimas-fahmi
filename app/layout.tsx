@@ -1,11 +1,7 @@
-import type { Metadata } from "next";
+"use client";
+
 import "@/src/css/globals.tailwind.css";
 import { inter } from "@/src/fonts";
-
-export const metadata: Metadata = {
-  title: "Dimas Fahmi | Web Developer",
-  description: "Get in touch with me and let's work together!",
-};
 
 export default function RootLayout({
   children,
@@ -14,7 +10,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} antialiased`}>{children}</body>
+      <body className={`${inter.variable} antialiased max-w-[1440px] m-auto`}>
+        {children}
+      </body>
     </html>
   );
 }
