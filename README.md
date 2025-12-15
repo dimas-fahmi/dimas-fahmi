@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate developer with a strong interest in web technologies, especially React and Next.js. I also have experience with PHP and Laravel, which I still value for heavy back-end like API. I'm always excited to collaborate or connect with fellow developers—let's build something great together!
+I'm a passionate developer with a strong interest in web technologies, especially React and Next.js. I also have experience with PHP and Laravel!
 
 ## 👀 Portfolio
 
